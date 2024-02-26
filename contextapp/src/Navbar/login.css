@@ -1,0 +1,29 @@
+body
+{
+ background-image: url("https://res.cloudinary.com/dpfnyv0ut/image/upload/v1707716193/Soothing-nature-backgrounds-2.jpg_w4hkmw.webp");
+ background-repeat: no-repeat;
+ background-size: cover;
+ height: 100vh;
+}
+.container
+{
+ background-color: rgba(0, 0,0,0.4);
+  
+  
+ color: white;
+ padding: 5px;
+ 
+}
+.formdiv
+{
+    margin-top: 10px;
+}
+.btn
+{
+  width: 50%;
+  margin-left: 125px;
+}
+input
+{
+  outline: none;
+}

@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Login = () => {
+const Career = () => {
   return (
     <div>
-      Login
+      Career
     </div>
   )
 }
 
-export default Login;
+export default Career
